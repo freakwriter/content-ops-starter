@@ -642,7 +642,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Content strategy
         tagline: Content with sass
         subtitle: This is the item subtitle
         text: |
