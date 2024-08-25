@@ -68,7 +68,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:kate@livewithsass.com",
             "icon": "mail",
             "type": "Social"
         }
