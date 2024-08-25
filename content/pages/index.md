@@ -622,8 +622,8 @@ sections:
         tagline: Strategy with sass
         subtitle: For tomorrow or five years from now
         text: >
-          Have a sense of what you want a knowledge base to do, or wondering if
-          it could help with a particular problem? Let's talk strategy.
+          We can figure out a strategy for the short- or mid-term up to
+          long-term, with an outline of key milestones and goals along the way.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
