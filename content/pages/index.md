@@ -618,7 +618,7 @@ sections:
       type: TitleBlock
     subtitle: blah
     items:
-      - title: Feature Item One
+      - title: Assess needs
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
