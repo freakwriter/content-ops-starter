@@ -621,8 +621,10 @@ sections:
       - title: Knowledge strategy
         tagline: This is the tagline
         subtitle: For tomorrow or five years from now
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Have a loose sense of what you want a knowledge base to do, or
+          wondering if it could help with a particular problem? Let's talk
+          strategy.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
