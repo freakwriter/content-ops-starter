@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: knowledge management (n)
+      text: Knowledge management coaching
       color: text-dark
       type: TitleBlock
     subtitle: >-
