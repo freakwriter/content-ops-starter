@@ -166,7 +166,7 @@ sections:
       - content/pages/blog/needs-before-tools.md
     showThumbnail: true
     showDate: true
-    showAuthor: true
+    showAuthor: false
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
