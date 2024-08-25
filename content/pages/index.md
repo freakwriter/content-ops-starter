@@ -622,8 +622,8 @@ sections:
         tagline: Strategy with sass
         subtitle: Craft a vision and plan for success
         text: >
-          We can figure out a strategy for the short- or mid-term up to
-          long-term, with an outline of key milestones and goals along the way.
+          We'll define a strategy that makes sense for your needs and determine
+          tooling and process requirements to support that strategy.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
