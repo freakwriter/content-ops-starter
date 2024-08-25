@@ -256,7 +256,7 @@ sections:
 seo:
   metaTitle: Home - Live with Sass
   metaDescription: Knowledge management coaching with a bit of sass
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Live with Sass branding.svg
   type: Seo
   addTitleSuffix: false
 type: PageLayout
