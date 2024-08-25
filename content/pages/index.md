@@ -644,7 +644,7 @@ sections:
         type: FeaturedItem
       - title: Content strategy
         tagline: Content with sass
-        subtitle: 'Types, templates, styles oh my'
+        subtitle: 'Types, templates, and styles oh my'
         text: >
           Let's formalize your style guide, writing voice and tone, content type
           classifications, and/or templates.
