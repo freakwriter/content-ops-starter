@@ -9,7 +9,9 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/IMG_20171201_143052.jpg
-  altText: Case study 1
+  altText: >-
+    A walking path disappears into the distance. In the foreground, a metal pole
+    holds a sign that says "BEGIN".
   styles:
     self:
       borderRadius: large
