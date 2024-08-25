@@ -646,8 +646,8 @@ sections:
         tagline: Content with sass
         subtitle: 'Types, templates, styles oh my'
         text: >
-          I can help with style guide and voice/tone decisions, content type
-          classification, and templates.
+          Let's formalize your style guide, writing voice and tone, content type
+          classifications, and/or templates.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
