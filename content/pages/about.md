@@ -67,8 +67,7 @@ sections:
       In my non-tech life, I'm usually found outside. I hiked the entire
       Appalachian Trail in 2018, and I structure my day to hike with my dog
       Zola. I also love making things, whether it's designing and building
-      furniture from scratch or baking
-      bread.![](/images/PXL_20210207_210812109.jpg)
+      furniture from scratch or baking bread.
     actions: []
     media:
       type: ImageBlock
