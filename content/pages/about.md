@@ -70,12 +70,6 @@ sections:
       furniture from scratch or baking
       bread.![](/images/PXL_20210207_210812109.jpg)
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
