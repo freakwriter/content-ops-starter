@@ -164,7 +164,6 @@ sections:
     type: FeaturedItemsSection
   - posts:
       - content/pages/blog/needs-before-tools.md
-      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
     showAuthor: true
