@@ -666,7 +666,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Maintenance & upkeep
         tagline: Processes with sass
         subtitle: This is the item subtitle
         text: >
