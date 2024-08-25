@@ -620,7 +620,7 @@ sections:
     items:
       - title: Knowledge strategy
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: For tomorrow or five years from now
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
