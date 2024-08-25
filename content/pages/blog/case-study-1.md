@@ -1,5 +1,5 @@
 ---
-title: Why needs always come before tools
+title: Needs before tools
 slug: case-study-1
 date: '2024-08-25'
 excerpt: Why I won't suggest a tool without a requirements list
