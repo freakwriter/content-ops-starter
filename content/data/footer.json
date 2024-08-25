@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/Logo white.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Making your knowledge management strategy and knowledge base sassier.\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
                 "label": "Features",
@@ -40,9 +40,9 @@
         "title": "Company",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "About",
+                "altText": "About page",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -61,26 +61,14 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/sassafras-kate/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:kate@livewithsass.com",
             "icon": "mail",
             "type": "Social"
         }
@@ -103,7 +91,8 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Copyright (c) 2024 Live with Sass LLC\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": ""
 }

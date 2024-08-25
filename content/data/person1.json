@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Kate Mueller",
+    "role": "Owner",
     "image": {
-        "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "url": "/images/PXL_20240825_183658053.PORTRAIT.jpg",
+        "altText": "Kate Mueller",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "I've spent over ten years in tech writing and knowledge management, tackling everything from high-level concepts like researching best and worst practices to the hands-on work of proposing and building out knowledge bases or overhauling existing knowledge bases.\n\nI've spent the last six years working with KnowledgeOwl, a knowledge base provider, writing most of their support documentation and advising knowledge base implementers and administrators on things like:\n\n*   Getting buy-in\n\n*   Shifting your culture to embrace better knowledge management\n\n*   Defining needs and tooling requirements\n\n*   Developing audit and review cycles\n\n*   Creating authoring and publishing workflows\n\n\n\n"
 }
