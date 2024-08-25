@@ -8,7 +8,7 @@ topSections:
       text: Recent posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Posts with sass
     posts:
       - content/pages/blog/needs-before-tools.md
     showThumbnail: true
