@@ -258,5 +258,6 @@ seo:
   metaDescription: Knowledge management coaching with a bit of sass
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
