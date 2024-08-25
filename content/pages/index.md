@@ -66,6 +66,102 @@ sections:
           - pr-16
       text:
         textAlign: left
+  - title:
+      text: Services
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: What I offer
+    items:
+      - title: Knowledge strategy
+        tagline: Strategy with sass
+        subtitle: Craft a vision and plan for success
+        text: >
+          We'll define a strategy that makes sense for your needs and determine
+          tooling and process requirements to support that strategy.
+        image:
+          url: /images/randy-fath-G1yhU1Ej-9A-unsplash.jpg
+          altText: >-
+            A wooden chessboard set for the start of a match. One black pawn
+            stands in line with the white pawns.
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Content strategy
+        tagline: Content with sass
+        subtitle: Match knowledge strategy with reality
+        text: >
+          Choose the tools that meet your requirements, formalize your style
+          guide, and define content types and templates.
+        image:
+          url: /images/jan-mellstrom-tofagMI_UCM-unsplash.jpg
+          altText: 'Five stacks of worn books, many with Italian titles.'
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+      - title: Maintenance & upkeep
+        tagline: Processes with sass
+        subtitle: Knowledge base care and feeding
+        text: >
+          Define metadata and processes now that will keep updating and
+          maintaining your content stress-free.
+        image:
+          url: /images/mike-newbry-7LsSwWhBRaQ-unsplash.jpg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+          type: ImageBlock
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        type: FeaturedItem
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: FeaturedItemsSection
   - type: FeaturedItemsSection
     title:
       text: 'knowledge management (n):'
@@ -609,102 +705,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: Services
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: What I offer
-    items:
-      - title: Knowledge strategy
-        tagline: Strategy with sass
-        subtitle: Craft a vision and plan for success
-        text: >
-          We'll define a strategy that makes sense for your needs and determine
-          tooling and process requirements to support that strategy.
-        image:
-          url: /images/randy-fath-G1yhU1Ej-9A-unsplash.jpg
-          altText: >-
-            A wooden chessboard set for the start of a match. One black pawn
-            stands in line with the white pawns.
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Content strategy
-        tagline: Content with sass
-        subtitle: Match knowledge strategy with reality
-        text: >
-          Choose the tools that meet your requirements, formalize your style
-          guide, and define content types and templates.
-        image:
-          url: /images/jan-mellstrom-tofagMI_UCM-unsplash.jpg
-          altText: 'Five stacks of worn books, many with Italian titles.'
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Maintenance & upkeep
-        tagline: Processes with sass
-        subtitle: Knowledge base care and feeding
-        text: >
-          Define metadata and processes now that will keep updating and
-          maintaining your content stress-free.
-        image:
-          url: /images/mike-newbry-7LsSwWhBRaQ-unsplash.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Interested?
       color: text-dark
