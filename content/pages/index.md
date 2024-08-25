@@ -618,7 +618,7 @@ sections:
       type: TitleBlock
     subtitle: blah
     items:
-      - title: Assess needs
+      - title: Knowledge strategy
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
