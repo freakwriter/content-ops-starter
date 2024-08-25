@@ -165,6 +165,7 @@ sections:
   - posts:
       - content/pages/blog/case-study-2.md
       - content/pages/blog/case-study-3.md
+      - content/pages/blog/needs-before-tools.md
     showThumbnail: true
     showDate: true
     showAuthor: true
