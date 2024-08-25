@@ -9,8 +9,9 @@ sections:
       type: TitleBlock
     subtitle: 'With your tools, on your timeline'
     text: >
-      **knowledge management** *(n)*: the framework or process an organization
-      uses to identify, store, organize, and share information
+      \<div style="text-align: left">**knowledge management** *(n)*: the
+      framework or process an organization uses to identify, store, organize,
+      and share information\</div>
 
 
       **sass** *(n)*: an appealingly exciting, lively, or spirited quality
