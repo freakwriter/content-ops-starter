@@ -625,7 +625,7 @@ sections:
           We'll define a strategy that makes sense for your needs and determine
           tooling and process requirements to support that strategy.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/randy-fath-G1yhU1Ej-9A-unsplash.jpg
           altText: Placeholder Image
           styles:
             self:
