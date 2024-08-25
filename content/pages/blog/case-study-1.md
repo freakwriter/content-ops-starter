@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Why needs always come before tools
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
