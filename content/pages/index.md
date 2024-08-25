@@ -610,7 +610,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: What I do
       color: text-primary
       styles:
         self:
