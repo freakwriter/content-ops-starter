@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: WHAT WE DO
+      label: WHAT I DO
       color: text-primary
       styles:
         self:
