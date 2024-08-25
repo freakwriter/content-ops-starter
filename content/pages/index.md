@@ -59,7 +59,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      the framework or process an organization uses to identify, store,
+      organize, and share information
     items:
       - type: FeaturedItem
         title: 500k
