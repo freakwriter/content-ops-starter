@@ -255,7 +255,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Home - Live with Sass
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Knowledge management coaching with a bit of sass
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
