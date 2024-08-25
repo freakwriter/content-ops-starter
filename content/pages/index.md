@@ -52,7 +52,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Add some sass
       color: text-primary
       type: Badge
     elementId: ''
