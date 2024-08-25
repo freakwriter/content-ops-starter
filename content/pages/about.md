@@ -69,14 +69,7 @@ sections:
       Zola. I also love making things, whether it's designing and building
       furniture from scratch or baking
       bread.![](/images/PXL_20210207_210812109.jpg)
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
