@@ -616,7 +616,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: blah
+    subtitle: What I offer
     items:
       - title: Knowledge strategy
         tagline: Strategy with sass
