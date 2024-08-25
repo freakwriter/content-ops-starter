@@ -183,6 +183,7 @@ sections:
       type: TitleBlock
       text: Recent blog posts
       color: text-dark
+    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
