@@ -626,7 +626,9 @@ sections:
           tooling and process requirements to support that strategy.
         image:
           url: /images/randy-fath-G1yhU1Ej-9A-unsplash.jpg
-          altText: Placeholder Image
+          altText: >-
+            A wooden chessboard set for the start of a match. One black pawn
+            stands in line with the white pawns.
           styles:
             self:
               borderRadius: x-large
