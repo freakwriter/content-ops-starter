@@ -652,7 +652,7 @@ sections:
           guide, and define content types and templates.
         image:
           url: /images/jan-mellstrom-tofagMI_UCM-unsplash.jpg
-          altText: Placeholder image
+          altText: 'Five stacks of worn books, many with Italian titles.'
           styles:
             self:
               borderRadius: x-large
