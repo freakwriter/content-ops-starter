@@ -7,9 +7,7 @@ sections:
       text: Knowledge management coaching
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      the framework or process an organization uses to identify, store,
-      organize, and share information
+    subtitle: 'With your tools, on your timeline'
     text: >
       **knowledge management** *(n)*: the framework or process an organization
       uses to identify, store, organize, and share information
