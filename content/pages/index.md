@@ -644,7 +644,7 @@ sections:
         type: FeaturedItem
       - title: Content strategy
         tagline: Content with sass
-        subtitle: 'Types, templates, and styles oh my'
+        subtitle: Match knowledge strategy with reality
         text: >
           Choose the tools that meet your requirements, formalize your style
           guide, and define content types and templates.
