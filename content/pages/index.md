@@ -619,7 +619,7 @@ sections:
     subtitle: blah
     items:
       - title: Knowledge strategy
-        tagline: This is the tagline
+        tagline: Strategy with sass
         subtitle: For tomorrow or five years from now
         text: >
           Have a sense of what you want a knowledge base to do, or wondering if
