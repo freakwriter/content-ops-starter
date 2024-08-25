@@ -620,7 +620,7 @@ sections:
     items:
       - title: Knowledge strategy
         tagline: Strategy with sass
-        subtitle: For tomorrow or five years from now
+        subtitle: Craft a vision and plan for success
         text: >
           We can figure out a strategy for the short- or mid-term up to
           long-term, with an outline of key milestones and goals along the way.
