@@ -645,8 +645,9 @@ sections:
       - title: Content strategy
         tagline: Content with sass
         subtitle: 'Types, templates, styles oh my'
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          I can help with style guide and voice/tone decisions, content type
+          classification, and templates.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
