@@ -1,7 +1,7 @@
 {
     "logo": {
         "url": "/images/Live with Sass branding.svg",
-        "altText": "Logo dark",
+        "altText": "Live with Sass logo",
         "styles": {
             "self": {
                 "margin": [
