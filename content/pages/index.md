@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: knowledge management
+      text: 'knowledge management (n):'
       color: text-dark
       styles:
         self:
