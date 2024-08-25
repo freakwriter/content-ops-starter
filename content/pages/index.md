@@ -10,7 +10,14 @@ sections:
     subtitle: >-
       the framework or process an organization uses to identify, store,
       organize, and share information
-    text: >+
+    text: >
+      **knowledge management** *(n)*: the framework or process an organization
+      uses to identify, store, organize, and share information
+
+
+      **sass** *(n)*: an appealingly exciting, lively, or spirited quality
+
+
       Knowledge management can seem deceptively simple. But doing it—and
       particularly doing it well—can be challenging.
 
@@ -21,9 +28,6 @@ sections:
 
       Live with Sass is here to make it both less challenging and more sassy and
       joyful.
-
-
-
     actions:
       - label: Get started
         altText: ''
