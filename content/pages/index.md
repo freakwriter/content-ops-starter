@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Get your knowledge organized
+      text: knowledge management (n)
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
