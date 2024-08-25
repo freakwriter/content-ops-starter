@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Pricing
 slug: pricing
 sections:
   - title:
