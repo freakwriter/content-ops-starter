@@ -649,7 +649,7 @@ sections:
           Choose the tools that meet your requirements, formalize your style
           guide, and define content types and templates.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/jan-mellstrom-tofagMI_UCM-unsplash.jpg
           altText: Placeholder image
           styles:
             self:
