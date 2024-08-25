@@ -8,10 +8,20 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Knowledge management can seem deceptively simple. But doing it—and
+      particularly doing it well—can be challenging.
+
+
+      Building or overhauling a knowledge management program or knowledge base
+      can seem intimidating.
+
+
+      Live with Sass is here to make it both less challenging and more sassy and
+      joyful.
+
+
+
     actions:
       - label: Get started
         altText: ''
