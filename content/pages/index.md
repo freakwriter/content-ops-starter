@@ -64,6 +64,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      text:
+        textAlign: justify
   - type: FeaturedItemsSection
     title:
       text: 'knowledge management (n):'
