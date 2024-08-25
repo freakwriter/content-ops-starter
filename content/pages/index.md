@@ -7,7 +7,9 @@ sections:
       text: knowledge management (n)
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      the framework or process an organization uses to identify, store,
+      organize, and share information
     text: >+
       Knowledge management can seem deceptively simple. But doing it—and
       particularly doing it well—can be challenging.
