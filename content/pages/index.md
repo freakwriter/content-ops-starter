@@ -182,7 +182,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Recent blog posts
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
