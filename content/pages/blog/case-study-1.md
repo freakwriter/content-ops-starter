@@ -2,11 +2,7 @@
 title: Why needs always come before tools
 slug: case-study-1
 date: '2024-08-25'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: Why I won't suggest a tool without a requirements list
 featuredImage:
   url: /images/IMG_20171201_143052.jpg
   altText: >-
