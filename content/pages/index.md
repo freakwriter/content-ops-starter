@@ -610,7 +610,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: What I do
+      text: Services
       color: text-primary
       styles:
         self:
