@@ -9,11 +9,11 @@ sections:
       type: TitleBlock
     subtitle: 'With your tools, on your timeline'
     text: >
-      **knowledge management** *(n)*: the framework or process an organization
+      **knowledge management** *(n):* the framework or process an organization
       uses to identify, store, organize, and share information
 
 
-      **sass** *(n)*: an appealingly exciting, lively, or spirited quality
+      **sass** *(n):* an appealingly exciting, lively, or spirited quality
 
 
       Knowledge management can seem deceptively simple. But doing it—and
