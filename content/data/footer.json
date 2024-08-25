@@ -91,7 +91,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Copyright (c) 2024 Live with Sass LLC\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
     "title": "Live with Sass"
