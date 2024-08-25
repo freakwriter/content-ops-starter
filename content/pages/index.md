@@ -644,7 +644,7 @@ sections:
         type: FeaturedItem
       - title: Content strategy
         tagline: Content with sass
-        subtitle: This is the item subtitle
+        subtitle: 'Types, templates, styles oh my'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
