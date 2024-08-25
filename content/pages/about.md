@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: About me
       color: text-dark
-    subtitle: Meet Sassafras
+    subtitle: ''
     text: >
       I've spent over ten years in tech writing and knowledge management,
       tackling everything from high-level concepts like researching best and
