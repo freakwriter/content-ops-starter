@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Most Recent post
+      text: Recent posts
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
