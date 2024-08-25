@@ -78,7 +78,7 @@ sections:
         blond short-haired husky mix, is licking her face.
     badge:
       type: Badge
-      label: This is a badge
+      label: Owner with sass
       color: text-primary
     colors: bg-light-fg-dark
     styles:
