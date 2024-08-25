@@ -668,7 +668,7 @@ sections:
         type: FeaturedItem
       - title: Maintenance & upkeep
         tagline: Processes with sass
-        subtitle: This is the item subtitle
+        subtitle: Knowledge base care and feeding
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
