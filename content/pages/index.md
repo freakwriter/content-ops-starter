@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Live with Sass | Home
 slug: /
 sections:
   - type: GenericSection
