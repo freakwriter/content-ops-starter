@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Make your knowledge work for you
+      text: "Make your\_ knowledge work for you"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
