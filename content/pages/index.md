@@ -675,7 +675,7 @@ sections:
           Define metadata and processes now that will keep updating and
           maintaining your content stress-free.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/mike-newbry-7LsSwWhBRaQ-unsplash.jpg
           altText: Placeholder image
           styles:
             self:
