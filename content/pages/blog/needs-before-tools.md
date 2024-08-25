@@ -4,7 +4,7 @@ slug: needs-before-tools
 date: '2024-08-25'
 excerpt: Why I won't suggest a tool without a requirements list
 featuredImage:
-  url: /images/IMG_20171201_143052.jpg
+  url: /images/begin-edited.jpg
   altText: >-
     A walking path disappears into the distance. In the foreground, a metal pole
     holds a sign that says "BEGIN".
