@@ -86,15 +86,43 @@ styles:
 type: PostLayout
 author: content/data/person1.json
 ---
+Since I've worked with KnowledgeOwl, a knowledge base provider, for nearly six years, people sometimes assume that KnowledgeOwl is the tool I'll steer them toward. Sometimes, they assume that I'll suggest KO before we've even discussed their needs and requirements.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+While I'm certainly more familiar with KnowledgeOwl than any other tool, this is a totally false assumption.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+Why?
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+There are two main reasons:
 
-![](/images/img-placeholder.svg)
+## All tools come with limitations
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+If you choose the tool before understanding your needs or requirements, you may adjust your needs or requirements to fit the tool, rather than choosing a tool that meets your needs and requirements.
+
+In some cases, that mistake might not be that big of a deal. If you've naturally picked a tool that does a fairly good job of meeting most of your currently undefined requirements, it might work out okay.
+
+But if you pick a tool that's a very poor fit? Your implementation will be a world of misery, you'll probably end up hating the tool, or worst of all, you'll give up on your knowledge base or your knowledge strategy entirely.
+
+Every tool we use does come with some trade-offs. But I don't want you stuck with a tool that feels like all trade-offs and no benefits.
+
+## Clarifying requirements does a lot more than you think
+
+The second reason I don't rush to tool suggestion is that the act of defining and clarifying requirements serves so many useful purposes:
+
+*   It establishes a common understanding of what problem(s) the tool's supposed to help you solve.
+
+*   It forces folks to articulate assumptions they don't even know they're making about the tooling itself, the larger problem you're hoping to solve, what "solved" actually looks like, or the larger strategy this work fits into.
+
+*   It can help us identify the nuance between absolute deal-breaking requirements, strong wants, and nice to have features.
+
+*   It helps establish some documentation around requirements (#docsoritdidnthappen!).
+
+*   It ensures that you're comparing apples to apples when you do consider tools.
+
+It also should make you feel a lot more confident that you've selected the best tool for your needs.
+
+## What this means for how we work together
+
+Most likely, what this means is I'll ask you if you've already defined a list of requirements and, if so, if you can share them with me. Part of my role is to be sure that these requirements are well-defined, thorough, and that they map appropriately to your larger goals with implementing a knowledge base.
+
+If you don't have requirements, we'll table any talk of specific tools or scoping/estimating that work until we can get a solid set of requirements defined and agreed upon by your team. At that point, it becomes much easier for you to evaluate tools on your own or with my help, which helps guarantee you aren't biased by my own experience so you can pick the best tool for you.
+
