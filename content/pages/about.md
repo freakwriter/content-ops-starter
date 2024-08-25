@@ -73,7 +73,10 @@ sections:
     media:
       type: ImageBlock
       url: /images/PXL_20210207_210812109.jpg
-      altText: Fun feature preview
+      altText: >-
+        Kate and Zola on trail. Snow clings to the trees and Kate's scarf. She
+        wears an orange stocking cap and ballcap and glasses. Zola, a brown and
+        blond short-haired husky mix, is licking her face.
     badge:
       type: Badge
       label: This is a badge
