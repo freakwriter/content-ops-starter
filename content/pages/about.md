@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: About me
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Meet Sassafras
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
